@@ -1,4 +1,4 @@
-package com.pravin.libraryapp
+package com.pravin.library_app_compose
 
 import org.junit.Test
 
